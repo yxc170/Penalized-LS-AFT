@@ -24,19 +24,3 @@ knitr::opts_chunk$set(
 
 ### Fitting Penalized Accelerated Failure Time Model
 ***paft*** implements a collection of
-
-### Installation
-
-You can install and load ***paft*** from CRAN using
-
-```{r cran-installation, eval = FALSE}
-install.packages("paft")
-library(paft)
-```
-
-You can install ***paft*** from github with:
-
-```{r gh-installation, eval = FALSE}
-## install.packages("devtools")
-devtools::install_github("stc04003/paft")
-```
