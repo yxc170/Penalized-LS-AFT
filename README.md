@@ -17,21 +17,3 @@ Status](https://travis-ci.org/stc04003/paft.svg?branch=master)](https://travis-c
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ### Fitting Penalized Accelerated Failure Time Model
-
-***paft*** implements a collection of
-
-### Installation
-
-You can install and load ***paft*** from CRAN using
-
-``` r
-install.packages("paft")
-library(paft)
-```
-
-You can install ***paft*** from github with:
-
-``` r
-## install.packages("devtools")
-devtools::install_github("stc04003/paft")
-```

@@ -23,4 +23,3 @@ knitr::opts_chunk$set(
 ```
 
 ### Fitting Penalized Accelerated Failure Time Model
-***paft*** implements a collection of
