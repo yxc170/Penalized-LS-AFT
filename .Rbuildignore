@@ -1,0 +1,17 @@
+^README\.Rmd$
+^README\.md$
+^README-.*\.png$
+skipcheck*
+^docs$
+\.tar\.gz$
+\.Rproj$
+^\.Rproj\.user$
+^\.Rhistory$
+^tests$
+^vignettes$
+^\.git$
+^appveyor\.yml$
+^\.travis\.yml$
+^inst$
+^CRAN-RELEASE$
+^cran-comments\.md$

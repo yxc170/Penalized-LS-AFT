@@ -1,0 +1,16 @@
+Package: paft
+Type: Package
+Title: Fitting Penalized Accelerated Failure Time Model
+Version: 0.0.1
+Date: 2021-03-01
+Authors@R: c(person("Ying", "Chen", email = "yxc170430@utdallas.edu", role = c("aut", "cre")), person("Chuan-Fa", "Tang", email = "Chuan-Fa.Tang@utdallas.edu", role = c("aut")), person("Sy Han", "Chiou", email = "schiou@utdallas.edu", role = c("aut")))
+Description: Something here.
+Depends: R (>= 3.5.0)
+License: GPL (>= 3)
+Encoding: UTF-8
+RoxygenNote: 7.2.1
+LinkingTo: Rcpp, RcppArmadillo
+URL: http://github.com/stc04003/paft
+BugReports: http://github.com/stc04003/paft/issues
+NeedsCompilation: yes
+Packaged: 2021-09-28 06:09:40 UTC; schiou
